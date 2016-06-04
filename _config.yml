@@ -1,6 +1,6 @@
 name: grid lab
 favicon: null
-layout_spectrum: 0.008288736920803785
+layout_spectrum: 0.99138
 typography_spectrum: 0.6127818305976689
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.38439329667016864
+    - '#ffffff'
+    - '#232a01'
+    - '#c6d9e9'
+    - '#6b6d00'
+    - '#7c8e78'
+  brandStrength: 0.3125
   lightness: 0.6149129003752023
   saturation: 0.7289809193462133
-  rhythmicContrast: 0.5593696034047753
+  rhythmicContrast: 0.5
 purpose: []
