@@ -5,7 +5,7 @@ inNav: false
 inLanguage: null
 keywords: []
 description: >-
-  t is a long established fact that a reader will be distracted by the readable
+  It is a long established fact that a reader will be distracted by the readable
   content of a page when looking at its layout. The point of using Lorem Ipsum
   is that it has a more-or-less normal distribution of letters, as opposed to
   using 'Content here, content here', making it look like readable English. Many
@@ -13,8 +13,8 @@ description: >-
   default model text, and a search for 'lorem ipsum' will uncover many web sites
   still in their infancy. Various versions have evolved over the years,
   sometimes by accident, sometimes on purpose (injected humour and the like).
-datePublished: '2016-06-04T19:46:55.014Z'
-dateModified: '2016-06-04T19:40:09.950Z'
+datePublished: '2016-06-04T23:03:15.225Z'
+dateModified: '2016-06-04T19:50:34.698Z'
 title: The Street
 author: []
 sourcePath: _posts/2016-06-04-the-street.md
@@ -28,4 +28,4 @@ _type: Article
 # The Street
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/545d7dc8-705d-4efe-86e0-a8348e8f23f3.jpg)
 
-t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
