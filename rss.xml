@@ -4,8 +4,15 @@
         <description><![CDATA[grid lab]]></description>
         <link>https://thegrid.ai/grid-lab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 19:32:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2016 19:35:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grid-lab/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Street]]></title>
+            <description><![CDATA[<article><h1>The Street</h1><p>t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p></article>]]></description>
+            <link>https://thegrid.ai/grid-lab/the-street/index.html</link>
+            <guid isPermaLink="false">62e2736f-3d8f-408a-b131-4aeee9afc4d5</guid>
+            <pubDate>Sat, 04 Jun 2016 19:34:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7e0c176-76d4-4710-9c9c-867023bc1258.jpg">]]></description>
