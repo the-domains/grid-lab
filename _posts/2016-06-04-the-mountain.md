@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-04T19:46:45.229Z'
-dateModified: '2016-06-04T19:46:27.681Z'
+datePublished: '2016-06-04T19:50:05.392Z'
+dateModified: '2016-06-04T19:46:52.350Z'
 title: The Mountain
 author: []
 sourcePath: _posts/2016-06-04-the-mountain.md
