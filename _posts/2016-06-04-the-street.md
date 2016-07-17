@@ -13,8 +13,8 @@ description: >-
   default model text, and a search for 'lorem ipsum' will uncover many web sites
   still in their infancy. Various versions have evolved over the years,
   sometimes by accident, sometimes on purpose (injected humour and the like).
-datePublished: '2016-07-17T19:40:56.289Z'
-dateModified: '2016-07-17T19:40:36.396Z'
+datePublished: '2016-07-17T19:41:07.538Z'
+dateModified: '2016-07-17T19:41:01.118Z'
 title: The Street
 author: []
 sourcePath: _posts/2016-06-04-the-street.md
